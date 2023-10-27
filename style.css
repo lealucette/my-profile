@@ -1,0 +1,35 @@
+body {
+background: #E3CCAE;
+color: black;
+font-family: palatino;
+font-size: 17px;
+font-weight: lighter;
+text-align: center;}
+h1,h2 	{ 
+font-family:palatino; 
+ color: #5C4033;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
+h1	{
+font-size: 35px;
+}
+h2{
+font-size: 24px;
+
+}
+a	{
+color: #800000;
+text-decoration: none;
+text-align: center;
+}
+a:hover	{
+color: #800000;	
+font-weight: bold;}
+
+img {
+border-radius: 100%;
+clip-path: ellipse(50% 33%);
+circle border: 2px solid #5C4033
+}
